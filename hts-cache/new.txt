@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:14:44	314249/314249	U--M-Z	200	updated ('OK')	text/html	etag:%22813fb3d4315d7026cc9ce136b753c85a%22	https://hopeful-premise-014401.framer.app/	/Users/dk/websites/dksite/hopeful-premise-014401.framer.app/index.html	(from )
+20:14:44	106/106	U-----	200	untouched ('OK')	text/plain	etag:%22227495a7cccd28d9d70e3bde6bd62e06%22	https://hopeful-premise-014401.framer.app/robots.txt		(from )
+20:14:45	200076/200076	U--M-Z	200	updated ('OK')	text/html	etag:%221327ccaaa1688dd5833c5122ce2334a1%22	https://hopeful-premise-014401.framer.app/contact	/Users/dk/websites/dksite/hopeful-premise-014401.framer.app/contact.html	(from https://hopeful-premise-014401.framer.app/)
